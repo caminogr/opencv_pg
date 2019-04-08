@@ -21,4 +21,3 @@ int main(int argc, char** argv)
 	waitKey();								// キー入力待機
 	return 0;
 }
-
